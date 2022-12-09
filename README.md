@@ -17,5 +17,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/shru_aeroleads)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/techno-geek-shruthi/)
 [![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=Facebook)](https://www.facebook.com/shruthi.gkini)
+[![reddit](https://img.shields.io/badge/-reddit-black?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Shruthi-G-Kini)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=StackOverflow)](https://stackoverflow.com/users/19986178/shruthi-kini)
 
